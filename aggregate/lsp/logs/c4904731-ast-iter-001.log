@@ -1,0 +1,7 @@
+[2026-10-11T06:12:41Z] === AST ITERATION 1 START | repo=celery/cyme sha=c4904731 ===
+[2026-10-11T06:12:41Z] [iter=1] PHASE START: ast repo=celery/cyme sha=c4904731
+[2026-10-11T06:12:41Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T06:13:06Z] [iter=1] AST chunks built count=1 triples=241218
+[2026-10-11T06:13:06Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c49047318c56f6674bd6d6ea6673b48be4eb7886/.complete
+[2026-10-11T06:13:06Z] [iter=1] PHASE END: ast elapsed_s=25 elapsed_min=0.4
+[2026-10-11T06:13:06Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
